@@ -5,19 +5,16 @@ The tasks focus on analysing the Chips Category to help Quantium's client unders
 
 The program includes 3 tasks:
 
-**1. Data preparation and customer analytics
-**
+## 1. Data preparation and customer analytics
 - Analyze transaction and customer data to identify trends and inconsistencies. 
 - Develop metrics and examine sales drivers to gain insights into overall sales performance. 
 - Create visualizations and prepare findings to formulate a clear recommendation for the client's strategy.
 
-**2. Experimentation and uplift testing
-**
+## 2. Experimentation and uplift testing
 - Define metrics to select control stores.
 - Analyze trial stores against controls.
 
-**3. Analytics and commercial application
-**
+## 3. Analytics and commercial application
 - Use the Pyramid Principles framework for structuring the report.
 - Submit a report that incorporates data visualizations, key insights, and recommendations.
 
