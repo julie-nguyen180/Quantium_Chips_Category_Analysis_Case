@@ -1,4 +1,4 @@
-# Quantium_Chips_Category_Analysis_Case
+# Chips Category Analysis (Quantium Case) - Python
 This analysis is a data analyst virtual internship experience of Quantium - a top consulting firm, particularly in the field of data science and artificial intelligence.
 
 The tasks focus on analysing the Chips Category to help Quantium's client understand the types of customers who purchase Chips, their purchasing behaviour within the region, and the results of new trial layouts in some selected stores.
